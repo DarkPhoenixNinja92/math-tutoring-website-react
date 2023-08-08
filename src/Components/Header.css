@@ -1,0 +1,28 @@
+.titleDiv {
+    position: absolute;
+    top: -15px;
+    left: 33vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.subtitle {
+    position: relative;
+    bottom: 2em;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 8em;
+    left: 23em;
+}
+
+.nav-itm {
+    margin-right: 3em;
+}
